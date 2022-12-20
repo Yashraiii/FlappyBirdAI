@@ -1,2 +1,0 @@
-# FlappyBirdAI
-Neat python
